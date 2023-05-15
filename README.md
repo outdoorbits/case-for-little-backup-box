@@ -33,11 +33,11 @@ The standard drawing assumes the following components:<br>
 </figure>
 
 <figure align="center">
-	<img src="https://github.com/outdoorbits/case-for-little-backup-box/blob/main/images/fan.png" align="center" width="90%">
+	<img src="https://github.com/outdoorbits/case-for-little-backup-box/blob/main/images/fan.webp" align="center" width="50%">
 	<figcaption>Fan, look for &quot;[5V Fan - Software-Controlled](https://thepihut.com/products/highpi-pro-5v-fan-software-controlled)&quot;</figcaption>
 </figure>
 
 <figure align="center">
-	<img src="https://github.com/outdoorbits/case-for-little-backup-box/blob/main/images/micro-buttons-6x6.png" align="center" width="90%">
+	<img src="https://github.com/outdoorbits/case-for-little-backup-box/blob/main/images/micro-buttons-6x6.png" align="center" width="50%">
 	<figcaption>Mico buttons, look for &quot;[Micro key button](https://eckstein-shop.de/10xMicroKeyTaster6x6mmButtonsModuleRastermaC39F22C54mm12V2F50mA?googlede=1&gclid=EAIaIQobChMIxZHNtuH2_gIVw4VoCR3RBwtCEAQYBSABEgJlePD_BwE)&quot;</figcaption>
 </figure>
