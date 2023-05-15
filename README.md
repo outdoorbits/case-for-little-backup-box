@@ -18,26 +18,26 @@ The standard drawing assumes the following components:<br>
 
 <br>
 <figure align="center">
-	<img src="https://github.com/outdoorbits/case-for-little-backup-box/blob/main/img/case-full.png" align="center" width="90%">
+	<img src="https://github.com/outdoorbits/case-for-little-backup-box/blob/main/images/case-full.png" align="center" width="90%">
 	<figcaption>The whole case</figcaption>
 </figure>
 
 <figure align="center">
-	<img src="https://github.com/outdoorbits/case-for-little-backup-box/blob/main/img/case-bottom.png" align="center" width="90%">
+	<img src="https://github.com/outdoorbits/case-for-little-backup-box/blob/main/images/case-bottom.png" align="center" width="90%">
 	<figcaption>The bottom</figcaption>
 </figure>
 
 <figure align="center">
-	<img src="https://github.com/outdoorbits/case-for-little-backup-box/blob/main/img/case-top-inner.png" align="center" width="90%">
+	<img src="https://github.com/outdoorbits/case-for-little-backup-box/blob/main/images/case-top-inner.png" align="center" width="90%">
 	<figcaption>Inside view of the top</figcaption>
 </figure>
 
 <figure align="center">
-	<img src="https://github.com/outdoorbits/case-for-little-backup-box/blob/main/img/fan.png" align="center" width="90%">
+	<img src="https://github.com/outdoorbits/case-for-little-backup-box/blob/main/images/fan.png" align="center" width="90%">
 	<figcaption>Fan, look for &quot;[5V Fan - Software-Controlled](https://thepihut.com/products/highpi-pro-5v-fan-software-controlled)&quot;</figcaption>
 </figure>
 
 <figure align="center">
-	<img src="https://github.com/outdoorbits/case-for-little-backup-box/blob/main/img/micro-buttons-6x6.png" align="center" width="90%">
+	<img src="https://github.com/outdoorbits/case-for-little-backup-box/blob/main/images/micro-buttons-6x6.png" align="center" width="90%">
 	<figcaption>Mico buttons, look for &quot;[Micro key button](https://eckstein-shop.de/10xMicroKeyTaster6x6mmButtonsModuleRastermaC39F22C54mm12V2F50mA?googlede=1&gclid=EAIaIQobChMIxZHNtuH2_gIVw4VoCR3RBwtCEAQYBSABEgJlePD_BwE)&quot;</figcaption>
 </figure>
