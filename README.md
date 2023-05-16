@@ -14,7 +14,7 @@ The standard drawing assumes the following components:<br>
 5. 15 pieces of jumper wire, female
 6. 4 screws M2.5 x 20 mm for the case
 7. 8 screws M2.0 x 8 mm and nuts for the buttons
-8. hot glue
+8. Hot glue to stick the display
 
 <br>
 <figure align="center">
