@@ -9,7 +9,7 @@ It is based on a 3D drawing on the <a href="https://www.freecad.org">freeCAD</a>
 <ol>
 	<li>Raspberry Pi 4 Model B</li>
 	<li>Display ssd1331 (RGB color display with 96x64 pixels)</li>
-	<li>Fan having external dimensions 30x30mm, hole spacing 24mm</li>
+	<li>Fan having external dimensions 30x30mm, hole spacing 24mm; prefer PMW-versions</li>
 	<li>Micro key buttons 6x6 mm2, mounted on a board</li>
 	<li>15 pieces of jumper wire, female</li>
 	<li>4 screws M2.5 x 20 mm for the case</li>
