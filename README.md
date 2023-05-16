@@ -6,23 +6,27 @@ It is based on a 3D drawing on the <a href="https://www.freecad.org">freeCAD</a>
 **Attention: The drawing has not yet been printed and tested. If you still want to do a test print, please post your experiences!**<br>
 <br>
 <h2>The standard drawing assumes the following components:</h2>
-1. Raspberry Pi 4 Model B
-2. Display ssd1331 (RGB color display with 96x64 pixels)
-3. Fan having external dimensions 30x30mm, hole spacing 24mm
-4. Micro key buttons 6x6 mm2, mounted on a board
-5. 15 pieces of jumper wire, female
-6. 4 screws M2.5 x 20 mm for the case
-7. 8 screws M2.0 x 8 mm and nuts for the buttons
-8. Hot glue to stick the display
+<ol>
+	<li>Raspberry Pi 4 Model B</li>
+	<li>Display ssd1331 (RGB color display with 96x64 pixels)</li>
+	<li>Fan having external dimensions 30x30mm, hole spacing 24mm</li>
+	<li>Micro key buttons 6x6 mm2, mounted on a board</li>
+	<li>15 pieces of jumper wire, female</li>
+	<li>4 screws M2.5 x 20 mm for the case</li>
+	<li>8 screws M2.0 x 8 mm and nuts for the buttons</li>
+	<li>Hot glue to stick the display</li>
+</ol>
 
 <h2>Customize drawing</h2>
-If you use different hardware components, you can adapt the drawing.<br>
+If you use different hardware components, you can adapt the drawing.
 It's (relatively) easy to adjust dimensions:
-1. Open the FCStd file with freeCAD
-2. Open the "dim" spreadsheet in the tree view
-3. Change the appropriate dimensions
-4. Mark the respective body in the tree view (e.g. "Bottom")
-5. Export the stl file (File - export...)
+<ol>
+	<li>Open the FCStd file with freeCAD</li>
+	<li>Open the "dim" spreadsheet in the tree view</li>
+	<li>Change the appropriate dimensions</li>
+	<li>Mark the respective body in the tree view (e.g. "Bottom")</li>
+	<li>Export the stl file (File - export...)</li>
+</ol>
 
 <br>
 <figure align="center">
