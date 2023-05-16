@@ -5,7 +5,7 @@ It is based on a 3D drawing on the <a href="https://www.freecad.org">freeCAD</a>
 <br>
 **Attention: The drawing has not yet been printed and tested. If you still want to do a test print, please post your experiences!**<br>
 <br>
-##The standard drawing assumes the following components:
+<h2>The standard drawing assumes the following components:</h2>
 1. Raspberry Pi 4 Model B
 2. Display ssd1331 (RGB color display with 96x64 pixels)
 3. Fan having external dimensions 30x30mm, hole spacing 24mm
@@ -15,7 +15,7 @@ It is based on a 3D drawing on the <a href="https://www.freecad.org">freeCAD</a>
 7. 8 screws M2.0 x 8 mm and nuts for the buttons
 8. Hot glue to stick the display
 
-##Customize drawing
+<h2>Customize drawing</h2>
 If you use different hardware components, you can adapt the drawing.<br>
 It's (relatively) easy to adjust dimensions:
 1. Open the FCStd file with freeCAD
