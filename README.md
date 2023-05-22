@@ -4,7 +4,7 @@ This project provides a housing for little backup box based on a Raspberry Pi 4.
 It is based on a 3D drawing on the <a href="https://www.freecad.org">freeCAD</a> platform. This drawing can be easily adjusted using an integrated table of dimensions.<br>
 <br>
 <br>
-For more information visit <a href="https://github.com/outdoorbits/little-backup-box">outdoorbits/little-backup-box. In lbb's <a href="https://github.com/outdoorbits/little-backup-box/wiki">Wiki</a> you will find all information needed to plug it all together.</a>
+For more information visit <a href="https://github.com/outdoorbits/little-backup-box">outdoorbits/little-backup-box</a>. In lbb's <a href="https://github.com/outdoorbits/little-backup-box/wiki">Wiki</a> you will find all information needed to plug it all together.</a>
 <br>
 <figure align="center">
 	<img src="https://github.com/outdoorbits/case-for-little-backup-box/blob/main/images/lbb-orange.jpg" align="center" width="90%">
