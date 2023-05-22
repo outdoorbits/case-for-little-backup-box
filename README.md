@@ -5,7 +5,7 @@ It is based on a 3D drawing on the <a href="https://www.freecad.org">freeCAD</a>
 <br>
 <figure align="center">
 	<img src="https://github.com/outdoorbits/case-for-little-backup-box/blob/main/images/lbb-orange.jpg" align="center" width="90%">
-	<figcaption>Little Backup Box in this case, includung ssd1331 color display, buttons for menu-navigation und pwm-controlled fan</figcaption>
+	<figcaption>Little Backup Box in this case, including a ssd1331 color display, buttons for menu-navigation and a pwm-controlled fan</figcaption>
 </figure>
 <br>
 <h2>The standard drawing assumes the following components:</h2>
