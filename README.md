@@ -19,7 +19,7 @@ For more information visit <a href="https://github.com/outdoorbits/little-backup
 	<li>Micro key buttons 6x6 mm2, mounted on a board</li>
 	<li>15 pieces of jumper wire, female</li>
 	<li>4 screws M2.5 x 20 mm for the case</li>
-	<li>8 screws M2.0 x 8 mm and nuts for the buttons</li>
+	<li>8 screws M2.0 x 6 mm and nuts for the buttons</li>
 	<li>Hot glue to stick the display</li>
 </ol>
 
