@@ -1,6 +1,6 @@
 # Case for little backup box
 
-This project provides a housing for little backup box based on a Raspberry Pi 4.<br>
+This project provides a housing for little backup box based on a Raspberry Pi 4B or Raspberry Pi 5.<br>
 It is based on a 3D drawing on the <a href="https://www.freecad.org">freeCAD</a> platform. This drawing can be easily adjusted using an integrated table of dimensions.<br>
 <br>
 <br>
@@ -11,9 +11,9 @@ For more information visit <a href="https://github.com/outdoorbits/little-backup
 	<figcaption>Little Backup Box in this case, including a ssd1331 color display, buttons for menu-navigation and a pwm-controlled fan</figcaption>
 </figure>
 <br>
-<h2>The standard drawing assumes the following components:</h2>
+<h2>The standard drawings assumes the following components:</h2>
 <ol>
-	<li>Raspberry Pi 4 Model B</li>
+	<li>Raspberry Pi 4 Model B or Raspberry Pi 5</li>
 	<li>Display ssd1331 (RGB color display with 96x64 pixels)</li>
 	<li>Fan having external dimensions 30x30mm, hole spacing 24mm; prefer PMW-versions</li>
 	<li>Micro key buttons 6x6 mm2, mounted on a board</li>
