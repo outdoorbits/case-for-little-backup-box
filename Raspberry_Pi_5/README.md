@@ -20,3 +20,4 @@ For the case:
 4 screws M2.5 x 30 mm (replacing the M2.5 x 20 mm of the standard case)
 
 ![The Geekworm X1002, shortened](https://github.com/outdoorbits/case-for-little-backup-box/blob/main/Raspberry_Pi_5/images/Geekworm_X1002_cut.jpg)
+The Geekworm X1002, shortened
