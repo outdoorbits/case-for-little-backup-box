@@ -17,7 +17,7 @@ Interface: SPI\
 SPI port: 0\
 Horizontal resolution: 128\
 Vertical resolution: 64\
-Color: Black-and-white\
+Color: Black-and-white
 
 ### Control buttons
 Variant: 3
