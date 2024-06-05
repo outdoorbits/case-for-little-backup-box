@@ -9,8 +9,8 @@ Many thanks to <a href="https://github.com/SigmaFred">SigmaFred</a> \
 	<br />
 	<figcaption>In action</figcaption>
 </figure>
-
-
+\
+\
 <figure>
 	<img src="https://github.com/outdoorbits/case-for-little-backup-box/blob/main/Raspberry_Pi_zero_2W/images/zero2w_housing1.jpg" align="center">
 	<br />
