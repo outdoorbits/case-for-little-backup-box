@@ -41,7 +41,7 @@ Many thanks to <a href="https://github.com/SigmaFred">SigmaFred</a> \
 <br />
 <br />
 <figure>
-	<img src="https://github.com/outdoorbits/case-for-little-backup-box/blob/main/Raspberry_Pi_zero_2W/images/zero2w_parts.jpg" align="center">
+	<img src="https://github.com/outdoorbits/case-for-little-backup-box/blob/main/Raspberry_Pi_zero_2W/images/zero2w_small_parts.jpg" align="center">
 	<figcaption>Small parts</figcaption>
 </figure><br />
 <br />
