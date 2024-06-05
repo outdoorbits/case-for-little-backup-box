@@ -12,12 +12,12 @@ Many thanks to <a href="https://github.com/SigmaFred">SigmaFred</a>
 
 ## Setup
 ### Display
-Driver: SH1106
-Interface: SPI
-SPI port: 0
-Horizontal resolution: 128
-Vertical resolution: 64
-Color: Black-and-white
+Driver: SH1106 /
+Interface: SPI /
+SPI port: 0 /
+Horizontal resolution: 128 /
+Vertical resolution: 64 /
+Color: Black-and-white /
 
 ### Control buttons
 Variant 3
