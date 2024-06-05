@@ -10,6 +10,21 @@ Many thanks to <a href="https://github.com/SigmaFred">SigmaFred</a>
 	<li>Small parts, see image below</li>
 </ul>
 
+## Setup
+### Display
+Driver: SH1106
+Interface: SPI
+SPI port: 0
+Horizontal resolution: 128
+Vertical resolution: 64
+Color: Black-and-white
+
+### Control buttons
+Variant 3
+
+
+### Gallery
+
 <figure>
 	<img src="https://github.com/outdoorbits/case-for-little-backup-box/blob/main/Raspberry_Pi_zero_2W/images/zero2w_action.jpg" align="center">
 	<figcaption>In action</figcaption>
