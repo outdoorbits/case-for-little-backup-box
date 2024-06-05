@@ -20,7 +20,7 @@ Vertical resolution: 64 /
 Color: Black-and-white /
 
 ### Control buttons
-Variant 3
+Variant: 3
 
 
 ### Gallery
