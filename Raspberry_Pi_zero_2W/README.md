@@ -1,7 +1,7 @@
 # A really tiny solution
 Raspberry Pi 2W with display and joystick control in a practical and robust housing
 
-Many thanks to <a href="https://github.com/SigmaFred">SigmaFred</a> \
+Many thanks to <a href="https://github.com/SigmaFred">SigmaFred</a>
 
 <ul>
 	<li>Pi Zero 2W</li>
