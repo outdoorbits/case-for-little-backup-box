@@ -3,6 +3,12 @@ Raspberry Pi 2W with display and joystick control in a practical and robust hous
 
 Many thanks to <a href="https://github.com/SigmaFred">SigmaFred</a> \
 
+<ul>
+	<li>Pi Zero 2W</li>
+	<li>Zero4U USB Hub with Pogo-Pins (UUGear)</li>
+	<li>1.3" OLED Display HAT for Raspberry Pi 128x64 (Waveshare)</li>
+	<li>Small parts, see image below</li>
+</ul>
 
 <figure>
 	<img src="https://github.com/outdoorbits/case-for-little-backup-box/blob/main/Raspberry_Pi_zero_2W/images/zero2w_action.jpg" align="center">
