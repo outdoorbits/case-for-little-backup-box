@@ -1,7 +1,9 @@
 # Case for little backup box
 
-This project provides a housing for little backup box based on a Raspberry Pi 4B or Raspberry Pi 5.<br>
-It is based on a 3D drawing on the <a href="https://www.freecad.org">freeCAD</a> platform. This drawing can be easily adjusted using an integrated table of dimensions.<br>
+This project provides a housings for little backup box based on a <a href="Raspberry_Pi_zero_2W">Raspberry Pi zero 2W</a>, <a href="Raspberry_Pi_4">Raspberry Pi 4B</a> or <a href="Raspberry_Pi_5">Raspberry Pi 5</a>.<br>
+
+## Housings for Raspberry Pi 4B and Raspberry Pi 5
+They are based on a 3D drawing on the <a href="https://www.freecad.org">freeCAD</a> platform. This drawing can be easily adjusted using an integrated table of dimensions.<br>
 <br>
 <br>
 For more information visit <a href="https://github.com/outdoorbits/little-backup-box">outdoorbits/little-backup-box</a>. In lbb's <a href="https://github.com/outdoorbits/little-backup-box/wiki">Wiki</a> you will find all information needed to plug it all together.</a>
@@ -59,3 +61,13 @@ It's (relatively) easy to adjust dimensions:
 	<img src="https://github.com/outdoorbits/case-for-little-backup-box/blob/main/images/micro-buttons-6x6.png" align="center" width="50%">
 	<figcaption>Mico buttons, look for &quot;<a href="https://eckstein-shop.de/10xMicroKeyTaster6x6mmButtonsModuleRastermaC39F22C54mm12V2F50mA">Micro key button</a>&quot;</figcaption>
 </figure>
+
+## Housing for Raspberry Pi zero 2W
+<figure>
+	<a href="Raspberry_Pi_zero_2W">
+		<img src="https://github.com/outdoorbits/case-for-little-backup-box/blob/main/Raspberry_Pi_zero_2W/images/zero2w_icon.jpg" align="center">
+	</a>
+	<figcaption>Ultra tiny and well protected housing for Raspberry Pi 2W</figcaption>
+</figure><br />
+<br />
+<br />
