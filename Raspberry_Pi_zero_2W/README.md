@@ -27,7 +27,7 @@ Variant: 3
 
 <figure>
 	<img src="https://github.com/outdoorbits/case-for-little-backup-box/blob/main/Raspberry_Pi_zero_2W/images/zero2w_overview.jpg" align="center">
-	<figcaption>In action</figcaption>
+	<figcaption>Overview</figcaption>
 </figure><br />
 <br />
 <br />
