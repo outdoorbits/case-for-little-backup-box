@@ -3,6 +3,18 @@ Raspberry Pi 2W with display and joystick control in a practical and robust hous
 
 Many thanks to <a href="https://github.com/SigmaFred">SigmaFred</a>
 
+<figure>
+	<img src="https://github.com/outdoorbits/case-for-little-backup-box/blob/main/Raspberry_Pi_zero_2W/images/zero2w_overview.jpg" align="center">
+	<figcaption>Overview</figcaption>
+</figure><br />
+<br />
+<br />
+<figure>
+	<img src="https://github.com/outdoorbits/case-for-little-backup-box/blob/main/Raspberry_Pi_zero_2W/images/zero2w_cad.jpg" align="center">
+	<figcaption>CAD drawing</figcaption>
+</figure><br />
+
+## What you need
 <ul>
 	<li>Pi Zero 2W</li>
 	<li>Zero4U USB Hub with Pogo-Pins (UUGear)</li>
@@ -21,17 +33,3 @@ Color: Black-and-white
 
 ### Control buttons
 Variant: 3
-
-
-### Gallery
-
-<figure>
-	<img src="https://github.com/outdoorbits/case-for-little-backup-box/blob/main/Raspberry_Pi_zero_2W/images/zero2w_overview.jpg" align="center">
-	<figcaption>Overview</figcaption>
-</figure><br />
-<br />
-<br />
-<figure>
-	<img src="https://github.com/outdoorbits/case-for-little-backup-box/blob/main/Raspberry_Pi_zero_2W/images/zero2w_cad.jpg" align="center">
-	<figcaption>CAD drawing</figcaption>
-</figure><br />
