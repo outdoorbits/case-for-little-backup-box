@@ -1,5 +1,5 @@
 # A small battery driven solution
-Raspberry Pi 2W with USV battery, display and joystick control in a practical and robust housing
+Raspberry Pi 2W with UPS battery, display and joystick control in a practical and robust housing
 
 Many thanks to <a href="https://github.com/SigmaFred">SigmaFred</a>
 
@@ -25,6 +25,7 @@ Many thanks to <a href="https://github.com/SigmaFred">SigmaFred</a>
 	<li>1.3" OLED Display HAT for Raspberry Pi 128x64 (Waveshare)</li>
 	<li>Pi Zero 2W</li>
 	<li>Geekworm Ultra-thin 18650 UPS & USB HUB Shield (X306) for Raspberry Pi Zero 2 W / Zero W <br /> Note: you will need V1.2 or lower, as from V1.3 they have omitted the 3 USB ports </li>
+	<li>Type 18650 battery (e.g. Samsung INR18650-35E)</li>
 	<li>Small parts, see image</li>
 </ul>
 
