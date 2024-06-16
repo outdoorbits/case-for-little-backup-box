@@ -6,6 +6,9 @@ The actual case uses all the other components of the RPi 4 version, excepted the
 ![Case for Raspberry Pi 5](https://github.com/outdoorbits/case-for-little-backup-box/blob/main/Raspberry_Pi_5/images/case_raspberry_pi_5.png)
 
 ## Variant for using an integrated NVMe SSD
+
+Caution: When accessing large amounts of data, the SSD can easily overheat. There is a real risk of data loss! This variant should not be used without active cooling of the SSD. Perhaps a corresponding SSD adapter board will come onto the market.
+
 If an SSD expansion is to be integrated, only the bottom of the housing needs to be replaced. This will be some 10 mm higher than the standard.
 
 After modifications <a href="https://geekworm.com/products/x1002">Geekworm X1002</a> can be used. But it needs to be modified:
