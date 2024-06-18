@@ -5,17 +5,17 @@ Many thanks to <a href="https://github.com/SigmaFred">SigmaFred</a>
 
 |**Little Backup Box running**|**Little Backup Box closed**|
 |:---:|:---:|
-| <img src="https://github.com/SigmaFred/case-for-little-backup-box/blob/e46c609cb898b2f54373973d029207ca1479a5dd/Raspberry_Pi_zero_2W/Battery_case/images/Raspi_Zero_2W_battery_case.jpg" > | <img src="https://github.com/SigmaFred/case-for-little-backup-box/blob/e0581334529163ca73f5ba0e5289f8fc75b05dc5/Raspberry_Pi_zero_2W/Battery_case/images/Raspi_Zero_2W_battery_case_closed.jpg"> |
+| <img src="https://github.com/outdoorbits/case-for-little-backup-box/blob/e46c609cb898b2f54373973d029207ca1479a5dd/Raspberry_Pi_zero_2W/Battery_case/images/Raspi_Zero_2W_battery_case.jpg" > | <img src="https://github.com/outdoorbits/case-for-little-backup-box/blob/e0581334529163ca73f5ba0e5289f8fc75b05dc5/Raspberry_Pi_zero_2W/Battery_case/images/Raspi_Zero_2W_battery_case_closed.jpg"> |
 <br />
 <br />
 <figure>
-	<img src="https://github.com/SigmaFred/case-for-little-backup-box/blob/689274967db5cb77032f5910c4539824dcbb4665/Raspberry_Pi_zero_2W/Battery_case/images/Raspi_Zero_2W_battery_case_pics.jpg" align="center">
+	<img src="https://github.com/outdoorbits/case-for-little-backup-box/blob/689274967db5cb77032f5910c4539824dcbb4665/Raspberry_Pi_zero_2W/Battery_case/images/Raspi_Zero_2W_battery_case_pics.jpg" align="center">
 	<figcaption>Overview in pictures</figcaption>
 </figure><br />
 <br />
 <br />
 <figure>
-	<img src="https://github.com/SigmaFred/case-for-little-backup-box/blob/689274967db5cb77032f5910c4539824dcbb4665/Raspberry_Pi_zero_2W/Battery_case/images/Raspi_Zero_2W_battery_case_cad.jpg" align="center">
+	<img src="https://github.com/outdoorbits/case-for-little-backup-box/blob/689274967db5cb77032f5910c4539824dcbb4665/Raspberry_Pi_zero_2W/Battery_case/images/Raspi_Zero_2W_battery_case_cad.jpg" align="center">
 	<figcaption>CAD details</figcaption>
 </figure><br />
 <br />

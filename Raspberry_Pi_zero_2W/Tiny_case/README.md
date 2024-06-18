@@ -4,13 +4,13 @@ Raspberry Pi 2W with display and joystick control in a practical and robust hous
 Many thanks to <a href="https://github.com/SigmaFred">SigmaFred</a>
 
 <figure>
-	<img src="https://github.com/SigmaFred/case-for-little-backup-box/blob/1f75cd5895f9634c97b172c855a404219733ffe9/Raspberry_Pi_zero_2W/Tiny_case/images/lbb_tiny_pictures.jpg" align="center">
+	<img src="https://github.com/outdoorbits/case-for-little-backup-box/blob/1f75cd5895f9634c97b172c855a404219733ffe9/Raspberry_Pi_zero_2W/Tiny_case/images/lbb_tiny_pictures.jpg" align="center">
 	<figcaption>Overview</figcaption>
 </figure><br />
 <br />
 <br />
 <figure>
-	<img src="https://github.com/SigmaFred/case-for-little-backup-box/blob/1f75cd5895f9634c97b172c855a404219733ffe9/Raspberry_Pi_zero_2W/Tiny_case/images/lbb_tiny_cad.jpg" align="center">
+	<img src="https://github.com/outdoorbits/case-for-little-backup-box/blob/1f75cd5895f9634c97b172c855a404219733ffe9/Raspberry_Pi_zero_2W/Tiny_case/images/lbb_tiny_cad.jpg" align="center">
 	<figcaption>CAD drawing</figcaption>
 </figure><br />
 
