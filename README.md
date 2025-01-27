@@ -16,7 +16,7 @@ For more information visit <a href="https://github.com/outdoorbits/little-backup
 <h2>The standard drawings assumes the following components:</h2>
 <ol>
 	<li>Raspberry Pi 4 Model B or Raspberry Pi 5</li>
-	<li>Display ssd1331 (RGB color display with 96x64 pixels)</li>
+	<li>Display ssd1331 (RGB color display with 96x64 pixels, 1.3&quot;)</li>
 	<li>Fan having external dimensions 30x30mm, hole spacing 24mm; prefer PMW-versions</li>
 	<li>Micro key buttons 6x6 mm2, mounted on a board</li>
 	<li>15 pieces of jumper wire, female</li>
@@ -65,7 +65,7 @@ It's (relatively) easy to adjust dimensions:
 ## Housing for Raspberry Pi zero 2W
 <figure>
 	<a href="Raspberry_Pi_zero_2W">
-		<img src="https://github.com/outdoorbits/case-for-little-backup-box/blob/main/Raspberry_Pi_zero_2W/images/zero2w_icon.jpg" align="center">
+		<img src="https://github.com/outdoorbits/case-for-little-backup-box/blob/main/Raspberry_Pi_zero_2W/Tiny_case/images/lbb_tiny_icon.jpg" align="center">
 	</a>
 	<figcaption>Ultra tiny and well protected housing for Raspberry Pi 2W</figcaption>
 </figure><br />
