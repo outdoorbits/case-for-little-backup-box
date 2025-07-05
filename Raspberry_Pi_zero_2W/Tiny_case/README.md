@@ -14,6 +14,8 @@ Many thanks to <a href="https://github.com/SigmaFred">SigmaFred</a>
 	<figcaption>CAD drawing</figcaption>
 </figure><br />
 
+There are two slightly different variants: The standard version has a gap of 0.05 mm between the Raspberry Pi and the case. Depending on the print quality, this may be a bit tight, so <a href="https://github.com/SigmaFred">SigmaFred</a> has provided a second version with a slightly wider gap of 0.1 mm. Both are located in the stl folder.
+
 ## What you need
 <ul>
 	<li>Pi Zero 2W</li>

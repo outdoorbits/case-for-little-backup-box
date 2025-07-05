@@ -1,5 +1,5 @@
 
-[Thelightdecides](https://github.com/thelightdecides) presents several highly interesting versions of the Little Backup Box on his [website](https://www.thelightdecides.com/travel-photography-blog/little-backup-box-simple-reliable-backup). A highlight is likely the version with an integrated actively cooled SSD and improved power supply.
+[Thelightdecides](https://github.com/thelightdecides) presents several highly interesting versions of Little Backup Box on his [website](https://www.thelightdecides.com/travel-photography-blog/little-backup-box-simple-reliable-backup). A highlight is likely the version with an integrated actively cooled SSD and improved power supply.
 
 The site is very clearly laid out and, in addition to the 3D printing files, also offers parts lists and richly illustrated assembly instructions. Great job!
 

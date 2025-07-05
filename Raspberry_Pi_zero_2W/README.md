@@ -1,6 +1,6 @@
 # Solutions with Raspberry Pi Zero 2W
 
-Many thanks to <a href="https://github.com/outdoorbits">outdoorbits</a>
+Many thanks to <a href="https://github.com/SigmaFred">SigmaFred</a>
 
 |**<a href="https://github.com/outdoorbits/case-for-little-backup-box/tree/5c32135e73a34b2bc7892bdcb380beba48f0bea3/Raspberry_Pi_zero_2W/Tiny_case">Tiny Case:</a>   A really tiny solution**|**<a href="https://github.com/outdoorbits/case-for-little-backup-box/tree/5c32135e73a34b2bc7892bdcb380beba48f0bea3/Raspberry_Pi_zero_2W/Battery_case">Battery Case:</a> A small battery driven solution**|
 |:---|:---|
