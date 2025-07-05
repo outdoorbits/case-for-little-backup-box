@@ -13,7 +13,7 @@ Many thanks to <a href="https://github.com/SigmaFred">SigmaFred</a>
 	<img src="https://github.com/outdoorbits/case-for-little-backup-box/blob/1f75cd5895f9634c97b172c855a404219733ffe9/Raspberry_Pi_zero_2W/Tiny_case/images/lbb_tiny_cad.jpg" align="center">
 	<figcaption>CAD drawing</figcaption>
 </figure><br />
-
+<br />
 There are two slightly different variants: The standard version has a gap of 0.05 mm between the Raspberry Pi and the case. Depending on the print quality, this may be a bit tight, so <a href="https://github.com/SigmaFred">SigmaFred</a> has provided a second version with a slightly wider gap of 0.1 mm. Both are located in the stl folder.
 
 ## What you need
